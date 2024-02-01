@@ -1,0 +1,17 @@
+.bg-img-handbook {
+  background: url("../../../../assets/handbook/handbook.jpg");
+}
+
+.section-handbook {
+  margin-top: 20px;
+}
+
+.handbook-customize {
+  display: flex !important;
+    justify-content: space-evenly;
+    border: 1px solid grey;
+    background-color: #fff;
+    padding: 12px 25px !important;
+    width: 40vw !important;
+} 
+
